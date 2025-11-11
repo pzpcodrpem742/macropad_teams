@@ -123,7 +123,7 @@
 		(property "Reference" "U1"
 			(at -5.825 -14.135 90)
 			(layer "F.SilkS")
-			(uuid "cc84980b-1831-44bf-8e5e-5369e72dac1f")
+			(uuid "bb042e1a-fbc4-4e4f-a5e4-214e52a74ce1")
 			(effects
 				(font
 					(size 1 1)
@@ -134,7 +134,7 @@
 		(property "Value" "RP2040-ZERO"
 			(at 2.43 12.865 90)
 			(layer "F.Fab")
-			(uuid "f8a46ac8-35db-4573-aa2d-95751eb99874")
+			(uuid "e82b8be6-dee2-44e9-a783-af7ef723155e")
 			(effects
 				(font
 					(size 1 1)
@@ -146,7 +146,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "048c4dfe-8b74-4a4a-830f-c25738ce579d")
+			(uuid "d8d4a926-aed0-4d84-8ecf-62dbc3635ac4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -158,7 +158,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f74bc06b-d311-4ceb-a215-d9334792c731")
+			(uuid "4ac3fa6c-f702-48b8-991f-3dfe732ad6d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23051,20 +23051,20 @@
 		(uuid "e8707e2d-b361-4436-9651-af3abfc5c6c6")
 	)
 	(segment
+		(start 125.5 112.5)
+		(end 125.5 116.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "120787d4-86af-4486-bc5a-55509d6afe35")
+	)
+	(segment
 		(start 123.54 110.54)
 		(end 103.58 110.54)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "397926df-3d5a-4c68-b53c-ad8b89ca78b5")
-	)
-	(segment
-		(start 125.5 117.5)
-		(end 125.5 112.5)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 14)
-		(uuid "6b9f295e-ef39-42b9-b9fc-7d84542a6595")
 	)
 	(segment
 		(start 125.5 112.5)
@@ -23075,20 +23075,20 @@
 		(uuid "fd4189ac-1c9e-4a72-98d9-1bf5d3033bb0")
 	)
 	(via
-		(at 125.5 117.5)
+		(at 125.5 116.5)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 14)
-		(uuid "2b41260b-5e29-4730-a569-3c6e3ce6b085")
+		(uuid "a7810f8f-9c03-483e-b13b-24b25380514b")
 	)
 	(segment
 		(start 175.5 117.23)
-		(end 125.77 117.23)
+		(end 126.23 117.23)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "739fc9a5-0c17-4f57-80c3-b3b0a6dbe300")
+		(uuid "0efc5451-97fd-4a8a-88a6-1e39f3e7865a")
 	)
 	(segment
 		(start 175.58 117.31)
@@ -23099,12 +23099,12 @@
 		(uuid "7c6e46ae-8e8b-4296-adcb-ac7080d167c8")
 	)
 	(segment
-		(start 125.77 117.23)
-		(end 125.5 117.5)
+		(start 126.23 117.23)
+		(end 125.5 116.5)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 14)
-		(uuid "f19cc811-12d4-4c7e-bb20-8de91f894af7")
+		(uuid "cba69fe2-2018-48c1-bdf0-d543de206c48")
 	)
 	(segment
 		(start 213.54 117.31)
